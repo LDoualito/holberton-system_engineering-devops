@@ -1,2 +1,2 @@
 #!/bin/bash
-echo swag
+cp -n *.html ..

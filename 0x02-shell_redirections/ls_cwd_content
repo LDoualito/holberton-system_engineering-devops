@@ -1,0 +1,28 @@
+total 72
+drwxrwxr-x 2 doual doual 4096 sept. 27 13:56 .
+drwxrwxr-x 6 doual doual 4096 sept. 27 11:43 ..
+-rwxrw-r-- 1 doual doual   32 sept. 27 11:45 0-hello_world
+-rw-rw-r-- 1 doual doual    0 sept. 27 11:44 0-hello_world~
+-rwxrw-r-- 1 doual doual   25 sept. 27 11:49 1-confused_smiley
+-rwxrw-r-- 1 doual doual   24 sept. 27 11:47 1-confused_smiley~
+-rwxrw-r-- 1 doual doual   28 sept. 27 11:56 2-hellofile
+-rwxrw-r-- 1 doual doual    0 sept. 27 11:55 2-hellofile~
+-rwxrw-r-- 1 doual doual   44 sept. 27 12:03 3-twofiles
+-rwxrw-r-- 1 doual doual    0 sept. 27 11:57 3-twofiles~
+-rwxrw-r-- 1 doual doual   35 sept. 27 12:05 4-lastlines
+-rwxrw-r-- 1 doual doual    0 sept. 27 12:04 4-lastlines~
+-rwxrw-r-- 1 doual doual   35 sept. 27 12:25 5-firstlines
+-rwxrw-r-- 1 doual doual    0 sept. 27 12:25 5-firstlines~
+-rwxrw-r-- 1 doual doual   44 sept. 27 12:42 6-third_line
+-rwxrw-r-- 1 doual doual   42 sept. 27 12:41 6-third_line~
+-rwxrw-r-- 1 doual doual   87 sept. 27 13:22 7-file
+-rwxrw-r-- 1 doual doual  128 sept. 27 13:16 7-file~
+-rwxrw-r-- 1 doual doual   37 sept. 27 13:56 8-cwd_state
+-rwxrw-r-- 1 doual doual    0 sept. 27 13:55 8-cwd_state~
+-rw-rw-r-- 1 doual doual   12 sept. 27 13:22 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 doual doual  800 sept. 27 12:32 iacta
+-rw-rw-r-- 1 doual doual    0 sept. 27 12:30 iacta~
+-rw-rw-r-- 1 doual doual    0 sept. 27 13:56 ls_cwd_content
+-rw-r--r-- 1 doual doual 2510 sept. 27 12:36 q
+-rw-rw-r-- 1 doual doual   35 sept. 27 11:44 README.md
+-rw-rw-r-- 1 doual doual    0 sept. 27 11:44 README.md~

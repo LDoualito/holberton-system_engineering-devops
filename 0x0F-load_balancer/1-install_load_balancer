@@ -14,7 +14,7 @@ frontend http
 	default_backend web-server
 backend web-server
 	balance roundrobin
-	server 3242-web-01-34.148.202.126 check
+	server 3242-web-01-34.148.213.246 check
 	server 3242-web-02 34.73.71.150:80 check
 "
 
